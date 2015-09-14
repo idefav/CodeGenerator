@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Idefav.CodeGenerator.Properties {
+namespace Idefav.CodeGenerator.Utilities.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

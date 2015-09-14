@@ -9,3 +9,11 @@ D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenera
 D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.CodeGenerator.exe.config
 D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.exe
 D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.pdb
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.CodeGenerator.exe
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.CodeGenerator.pdb
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\System.Net.Http.dll
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\System.Net.Http.xml
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.csprojResolveAssemblyReference.cache
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.Properties.Resources.resources
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.csproj.GenerateResource.Cache

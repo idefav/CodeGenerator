@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idefav.Utility", "Idefav.Ut
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Idefav.DataAccess", "Idefav.DataAccess", "{F01C8D56-51D9-4A3F-A1A3-4316892F0AA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idefav.CodeGenerator.Utilities", "Idefav.CodeGenerator.Utilities\Idefav.CodeGenerator.Utilities.csproj", "{2653EEDC-FF45-4BE5-9808-C97C9B913309}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{B7188A16-BF23-4F2C-BFF1-7E13AA4CA843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7188A16-BF23-4F2C-BFF1-7E13AA4CA843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7188A16-BF23-4F2C-BFF1-7E13AA4CA843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2653EEDC-FF45-4BE5-9808-C97C9B913309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2653EEDC-FF45-4BE5-9808-C97C9B913309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2653EEDC-FF45-4BE5-9808-C97C9B913309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2653EEDC-FF45-4BE5-9808-C97C9B913309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
