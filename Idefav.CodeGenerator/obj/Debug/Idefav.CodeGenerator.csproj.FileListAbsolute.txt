@@ -1,0 +1,8 @@
+D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.CodeGenerator.exe.config
+D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.CodeGenerator.exe
+D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.CodeGenerator.pdb
+D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.csprojResolveAssemblyReference.cache
+D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.Properties.Resources.resources
+D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.csproj.GenerateResource.Cache
+D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.exe
+D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.pdb
