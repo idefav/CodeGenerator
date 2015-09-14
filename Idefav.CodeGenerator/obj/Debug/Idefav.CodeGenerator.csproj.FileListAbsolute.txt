@@ -17,3 +17,10 @@ D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\zh-Hans\System.Net.Ht
 D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.csprojResolveAssemblyReference.cache
 D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.Properties.Resources.resources
 D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.csproj.GenerateResource.Cache
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.DbFactory.dll
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.IDAL.dll
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.Utility.dll
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.DbFactory.pdb
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.IDAL.pdb
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.Utility.pdb
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.MainForm.resources
