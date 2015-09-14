@@ -6,3 +6,6 @@ D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenera
 D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.csproj.GenerateResource.Cache
 D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.exe
 D:\Sources\Idefav.CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.pdb
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\bin\Debug\Idefav.CodeGenerator.exe.config
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.exe
+D:\GitSources\CodeGenerator\Idefav.CodeGenerator\obj\Debug\Idefav.CodeGenerator.pdb
